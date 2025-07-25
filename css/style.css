@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items{
+    display: flex;
+    
+}
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+
+}
+.nav-image{
+    width: 135px;
+    height: 82px;
+}
+.cart-image{
+    width: 24px;
+    height: 24px;
+}
+.banner{
+    margin-top: 150px;
+    display: flex;
+    justify-content:center
+    
+}
