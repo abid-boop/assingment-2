@@ -306,8 +306,10 @@
     width: 235px;
     height: 27px;
 }
-.fot-logo{
+.fot-link{
     flex-direction: column;
+    
 }
+
 
 }
