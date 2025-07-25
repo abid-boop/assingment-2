@@ -25,3 +25,45 @@
     justify-content:center
     
 }
+.com-mar{
+    margin-top: 10px;
+}
+.btn-primary{
+    background-color:rgba(233, 90, 8, 1) ;
+    border: none;
+    width: 270px;
+    height: 50px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 1140px;
+    height: 999.88px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.card{
+    width: 270px;
+    height: 484.94px;
+}
+.card-section{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.plants-lover{
+    display: flex;
+    gap: 50px;
+    margin-top: 210.12px;
+    justify-content: center;
+}
+.jhamela{
+    width: 286px;
+    height: 286px;
+    margin-left: -250px;
+    margin-top: -150px;
+    
+}
