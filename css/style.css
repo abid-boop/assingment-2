@@ -267,3 +267,47 @@
     gap: 24px;
 
 }
+
+
+@media screen and (max-width: 576px) {
+    .nav-item{
+        display: none;
+    }
+    .navbar{
+        justify-content: space-between;
+    }
+    .banner{
+        flex-direction: column-reverse;
+        
+    }
+    .cards{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .jhamela{
+        display: none;
+    }
+    .plants-lover{
+        flex-direction: column;
+        align-items: center;
+        
+        
+
+ 
+        
+}
+.form{
+    width:393px;
+    height: 275px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.heading{
+    width: 235px;
+    height: 27px;
+}
+.fot-logo{
+    flex-direction: column;
+}
+
+}
